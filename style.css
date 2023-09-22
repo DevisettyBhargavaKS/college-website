@@ -1,0 +1,57 @@
+.logo {
+  height: 150px;
+  width: 200px;
+}
+
+.head {
+  padding: 20px;
+  text-align: start;
+}
+.flex1 {
+  display: inline-block;
+  padding: 15px;
+  cursor: pointer;
+}
+.flex2 {
+  display: inline-block;
+  cursor: pointer;
+}
+.parent {
+  display: flex;
+  cursor: pointer;
+}
+.child2 {
+  /* display: flex; */
+  text-align: center;
+  justify-content: center;
+}
+.total {
+  background-color: rgb(26, 26, 152);
+  height: 80vh;
+  color: white;
+}
+.all-head {
+  display: inline-block;
+  margin-left: 100px;
+  background-color:#151515;
+  
+}
+.container{
+    display: inline;
+}
+.selvin{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.next{
+  flex-direction: column;
+  padding: 30px;
+  background-color:#f7f7f7;
+}
+.red{
+  background-color:#730d11;
+  padding: 10px;
+  border-radius: 20px;
+}
